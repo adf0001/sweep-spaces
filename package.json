@@ -1,0 +1,23 @@
+{
+  "name": "sweep-spaces",
+  "version": "1.0.1",
+  "description": "sweep dom spaces text nodes",
+  "main": "sweep-spaces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sweep",
+    "spaces"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/sweep-spaces.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/sweep-spaces/issues"
+  },
+  "homepage": "https://github.com/adf0001/sweep-spaces#readme"
+}
